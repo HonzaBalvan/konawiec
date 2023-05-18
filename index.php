@@ -55,6 +55,17 @@
       margin: 10px 0;
     }
 
+    .toolbar{
+      width: 100%;
+      height: 20px;
+      background-color: #606060;
+    }
+
+    .langButton{
+      height:100%;
+      width: 100px;
+      border-style: solid;
+    }
     footer {
       background-color: #333;
       color: #fff;
@@ -66,16 +77,22 @@
 
 <body>
   <header>
-    <h1>Welcome to My E-Shop</h1>
+    <h1 id="header1">Witamy w naszym Eshopie</h1>
   </header>
+  <div class="toolbar">
+    <div class="langButton">CZ</div>
+  </div>
 
   <main>
+
+    <button onclick="changeLanguage('cz')"> CZ </button>
+    <button onclick="changeLanguage('pl')"> PL </button>
+    <script src="languageChanger.js"></script>
     <div class="product">
       <img src="product1.jpg" alt="Product 1">
       <h2>Product 1</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       <p>$19.99</p>
-      <?php print "Ondrej Kasparek swagger ultimatus"?>
       <button>Add to Cart</button>
     </div>
 
