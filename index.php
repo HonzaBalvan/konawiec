@@ -75,6 +75,7 @@
       <h2>Product 1</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       <p>$19.99</p>
+      <?php print "Ondrej Kasparek swagger ultimatus"?>
       <button>Add to Cart</button>
     </div>
 
