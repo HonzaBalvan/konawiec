@@ -57,14 +57,24 @@
 
     .toolbar{
       width: 100%;
-      height: 20px;
+      height: 30px;
       background-color: #606060;
+      border-bottom-style: solid;
+      border-bottom-width: 2px;
     }
 
     .langButton{
-      height:100%;
-      width: 100px;
+      float: left;
+      height:90%;
+      width: 50px;
       border-style: solid;
+      border-width: 2px;
+      font-size: 15px;
+      text-align: center;
+    }
+
+    .langButton:hover{
+      background-color: #838383;
     }
     footer {
       background-color: #333;
@@ -77,16 +87,15 @@
 
 <body>
   <header>
-    <h1 id="header1">Witajte w našom eshopě</h1>
+    <h1 id="header1">Witamy w naszym Eshopie</h1>
   </header>
   <div class="toolbar">
-    <div class="langButton">CZ</div>
+    <div class="langButton" onclick="changeLanguage('cz')">CZ</div>
+    <div class="langButton" onclick="changeLanguage('pl')">PL</div>
   </div>
 
   <main>
 
-    <button onclick="changeLanguage('cz')"> CZ </button>
-    <button onclick="changeLanguage('pl')"> PL </button>
     <script src="languageChanger.js"></script>
     <div class="product">
       <img src="product1.jpg" alt="Product 1">
