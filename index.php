@@ -86,8 +86,10 @@
 </head>
 
 <body>
+  <script src="languageChanger.js"></script>
+
   <header>
-    <h1 id="header1">Witamy w naszym Eshopie</h1>
+    <h1 id="header1">Witajte w našom eshopě</h1>
   </header>
   <div class="toolbar">
     <div class="langButton" onclick="changeLanguage('cz')">CZ</div>
@@ -95,8 +97,13 @@
   </div>
 
   <main>
+    <div>
+      <p id="paragraph1">Witajte w našom eshopě Konawiec, kde wytwarame disignarijskije odiewstwo pre konie. W recentnej dobwe sa zdawa kon myn jak prostrednik doprawcowy, wsak wic jak okolnost statusowa a dodatek elegancko. Preto sa pocina howorit o wrtochrupech konskich, drbani hlubkowe a i sat korektni pre kon. Telowaky latkove byly donynizs oskliwie. Konawiec prichadza s revolucijou v hadru konskem - obleceni designerske pre kon, lebo virame uprimny (v Boga), zie kon kwalitny jest nutne pre kazdieho aristokrata z Polskie.</p>
+      <p id="paragraph2"></p>
 
-    <script src="languageChanger.js"></script>
+    </div>
+
+
     <div class="product">
       <img src="product1.jpg" alt="Product 1">
       <h2>Product 1</h2>
