@@ -3,7 +3,7 @@ var languageContent = {
     "header1": "Vítejte na našem eshopu",
   },
   "pl": {
-    "header1": "Witamy w naszym Eshopie"
+    "header1": "Witajte w našom eshopě"
   }
 };
 function changeLanguage(lang) {

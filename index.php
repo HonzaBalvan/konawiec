@@ -77,7 +77,7 @@
 
 <body>
   <header>
-    <h1 id="header1">Witamy w naszym Eshopie</h1>
+    <h1 id="header1">Witajte w našom eshopě</h1>
   </header>
   <div class="toolbar">
     <div class="langButton">CZ</div>
