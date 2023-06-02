@@ -2,7 +2,7 @@ var languageContent = {
   "cz": {
 
     "paragraph1": "Vítejte na eshopu Konawiec, kde vytváříme designerské oblečení pro koně. V poslední době se ukázal kůň méně jako dopravní prostředek, ale spíš jako statusová záležitost a vkusový doplněk. Proto se začínají mnohem více řešit koňští zubaři, hloubková číštění kůže a i správný oděv pro koně. Ty byly do této doby až trapně ošklivé. Konawiec přichází s revolucí v koňském oděvu - designerské oblečení pro koně, protože upřímně věříme, že kvalitní kůň je ukázka dobrého polského aristokrata.",
-    "paragraph2": "Jednou z nejdůležitějších věcí v moderní módě pro koně je branding. Proto kromě našich lety prověřených kousků s novým spinem a formálními oděvy nabízíme artikly ve spolupráci s návrháři z celého světa. Můžete v našem eshopu tak narazit na několik kousků ve spolupráci s francouzským návrhářským domem Balenciaga, ",
+    "paragraph2": "Jednou z nejdůležitějších věcí v moderní módě pro koně je branding. Proto kromě našich lety prověřených kousků s novým spinem a formálními oděvy nabízíme artikly ve spolupráci s návrháři z celého světa. Můžete v našem eshopu tak narazit na několik kousků ve spolupráci s francouzským návrhářským domem Balenciaga, londýnskou firmou Burberry či s italskými designery z Bottega Veneta.",
     "header1": "Vítejte na našem eshopu"
   },
   "pl": {
